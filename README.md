@@ -1,4 +1,4 @@
-# Vagabond AI Navigator 🌍✨
+# BookOnce AI Navigator 🌍✨
 
 An AI-powered travel companion that helps you discover destinations based on your vibe, energy levels, and budget preferences.
 
